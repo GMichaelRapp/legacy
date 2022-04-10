@@ -1,4 +1,4 @@
-[This project is licensed under the Open Game License (v.1.0a).](% link open-game-license.md %)
+[This project is licensed under the Open Game License (v.1.0a).]({% link open-game-license.md %})
 
 ---
 
