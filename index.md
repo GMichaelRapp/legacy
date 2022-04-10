@@ -1,3 +1,7 @@
+[This project is licensed under the Open Game License (v.1.0a).](% link open-game-license.md %)
+
+---
+
 ### What Is a Roleplaying Game?
 If roleplaying games are new to you, they can feel daunting when attempting to tackle them as a gaming concept. Don't worry, though. Roleplaying games are quite easy to understand conceptually: They are about friendly collaboration between multiple players, including the player known as the Referee (REF), and they are about playing a fictional role or taking on a fictional role within a large, collective narrative world or universe. 
 
