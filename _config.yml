@@ -1,7 +1,4 @@
-plugins:
-  - jekyll-remote-theme
-
-jekyll_remote_theme: just-the-docs/just-the-docs
+theme: jekyll-theme-leaf
 title: Legacy 
 description: An open-source d100 tabletop roleplaying system. 
 
