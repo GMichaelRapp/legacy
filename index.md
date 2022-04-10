@@ -23,4 +23,14 @@ Creatures, non-player characters (NPCs), and other such encounters must complete
 ### Rolling a Maybe (?)
 When rolling to determine if a MAYBE action is going to succeed or fail, the group's Referee might use the following table to determine the target number a player will need to roll under or equal to on a d100 to succeed.
 
+| Difficulty Descriptor  | d100 Target Number | 
+|:-------------:|:-------------:|
+| Godlike |20/30 or lower |
+| Legendary |40 or lower|
+| Epic |50 or lower|
+| Fantastic |60 or lower|
+| Good |70 or lower|
+| Fair |80 or lower|
+| Easy |90 or lower|
+
 
