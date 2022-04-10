@@ -25,7 +25,7 @@ When rolling to determine if a MAYBE action is going to succeed or fail, the gro
 
 | Difficulty Descriptor  | d100 Target Number | 
 |:-------------:|:-------------:|
-| Godlike |20/30 or lower |
+| Demigod |20/30 or lower |
 | Legendary |40 or lower|
 | Epic |50 or lower|
 | Fantastic |60 or lower|
