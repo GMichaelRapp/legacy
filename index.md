@@ -59,7 +59,7 @@ There are often two kinds of ten-sided dice sold at game shops, online retailers
 Dice are referred to through their shorthand dice notations: e.g., d10 (ten-sided die) and d100 (a hundred-sided die). 
 
 ### Rolling the Dice
-A d100, comprised of two (2) ten-sided dice, which designates one ten-sided die as the tens digit (say a red or black die) and the other as the ones digit (say a white or blue die), is the main die for resolving MAYBE action.
+A d100, comprised of two (2) ten-sided dice, which designates one ten-sided die as the tens digit (say a red or black die) and the other as the ones digit (say a white or blue die), is the main die for resolving MAYBE actions.
 
 **00** is always read as zero (0) and not as one hundred (100). The lowest numeric score possible is zero (0), and the highest numeric score is ninety-nine (99).
 
