@@ -19,3 +19,8 @@ Everything a player character might possibly attempt that **could** result in **
 > The YES (✓), NO (✘), and MAYBE (?) assessment is at the heart of all ***consequential*** actions taken within the game. **YES** indicates automatic success in certain areas, if the player has enough action points to spend to make it happen. **NO** indicates automatic failure if attempted or the character cannot possibly takcle the problem/task, as they don't have the means to do so, even if they have action points to spend. **MAYBE** indicates there is some chance concerning whether a character will be successful or unsuccessful. Again, this means a player must spend action points and then roll against a predetermined target number to see if they have succeeded or failed in their task. 
 
 Creatures, non-player characters (NPCs), and other such encounters must complete a YES, NO, MAYBE assessment as well—characters will need to avoid their onslaughts by taking the appropriate action or counter-action. 
+
+### Rolling a Maybe (?)
+When rolling to determine if a MAYBE action is going to succeed or fail, the group's Referee might use the following table to determine the target number a player will need to roll under or equal to on a d100 to succeed.
+
+
