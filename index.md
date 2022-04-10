@@ -8,7 +8,7 @@
 4. [Rolling on a Maybe (?)](#rolling-id)
 5. [Reading the Dice](#reading-id)
 6. [Dice Notation](#notation-id)
-7. [Rolling the Dice](#rollingdice-id)
+7. [Rolling the Dice](#dicerolling-id)
 ---
 
 ### What Is a Roleplaying Game? {#what-id}
