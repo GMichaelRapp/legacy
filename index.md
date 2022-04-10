@@ -1,6 +1,7 @@
 [This project is licensed under the Open Game License, v.1.0a.]({% link open-game-license.md %})
 
 ---
+
 #### Table of Contents
 1. [What Is a Roleplaying Game?](#what-id)
 2. [What _Is_ Needed for Successful Gameplay?](#materials-id)
@@ -9,6 +10,7 @@
 5. [Reading the Dice](#reading-id)
 6. [Dice Notation](#notation-id)
 7. [Rolling the Dice](#dicerolling-id)
+
 ---
 
 ### What Is a Roleplaying Game? {#what-id}
