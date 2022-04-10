@@ -2,6 +2,10 @@
 
 ---
 
+#### This is a Work-in-Progress, meaning this page is not complete by any means. Keep an eye on updates through Github's repository for this project.
+
+---
+
 #### Table of Contents
 1. [What Is a Roleplaying Game?](#what-id)
 2. [What _Is_ Needed for Successful Gameplay?](#materials-id)
