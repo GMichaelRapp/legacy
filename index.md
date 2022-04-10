@@ -60,3 +60,7 @@ A d100, comprised of two (2) ten-sided dice, which designates one ten-sided die 
 **00** is always read as zero (0) and not as one hundred (100). The lowest numeric score possible is zero (0), and the highest numeric score is ninety-nine (99).
 
 When rolling a d100, lower is always better. _Lower_ dice rolls mean more impactful successes. _Higher_ tends to mean more problematic failures. 00 is an automatic success. In most cases, 99 is considered an automatic failure.
+
+---
+
+{% include footer.html %}
