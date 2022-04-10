@@ -33,4 +33,30 @@ When rolling to determine if a MAYBE action is going to succeed or fail, the gro
 | Fair |80 or lower|
 | Easy |90 or lower|
 
+#### Reading the Dice
+There are two (2) kinds of dice that are used to either determine success (or failure) or develop encounters, challenges, and locales that players will deal with in-game. The first, and most common, is the ten-sided die (referred to as a d10). The scores produced on a singular d10 range from one (1) to ten (10 or 0). The final dice type used in this game system is a hundred-sided die (referred to as a d100). This die, comprised of two ten-sided dice (see below), producing results ranging from zero (represented as 00 on two ten-sided dice) up to ninety-nine (99). **Lower is always better on a d100.**
 
+There are often two kinds of ten-sided dice sold at game shops, online retailers, and elsewhere. A standard ten-sided die has results between 01 and 10 (which is represented as a zero (0) on a single, standard d10). It has become increasingly common in game shop dice sets to see a d10 that has **1, 2, 3, 4, 5, 6, 7, 8, 9, and 0**, and a second, accompanying d10 with **10, 20, 30, 40, 50, 60, 70, 80, 90, and 00**. A combination of **00** and **0** should still be read as a zero (0) score (see table below).
+
+| d10 (Tens)  | d10 (Ones) |d100 (Score) |
+|:-------------:|:-------------:|:-------------:|
+|00|0|0|
+|00|1|01|
+|0| 0| 0|
+|90|9|99|
+|9|9|99|
+|1|1|11|
+|50|9|59|
+|3|8|38|
+|20|0|20|
+|2|0|20|
+
+#### Dice Notation
+Dice are referred to through their shorthand dice notations: e.g., d10 (ten-sided die) and d100 (a hundred-sided die). 
+
+#### Rolling the Dice
+A d100, comprised of two (2) ten-sided dice, which designates one ten-sided die as the tens digit (say a red or black die) and the other as the ones digit (say a white or blue die), is the main die for resolving conflict, completing tasks, etc., outside of critical thinking, problem-solving, and roleplaying abilities.
+
+**00** is always read as zero (0) and not as one hundred (100). The lowest numeric score possible is zero (0), and the highest numeric score is ninety-nine (99).
+
+When rolling a d100, lower is always better. _Lower_ dice rolls mean more impactful successes. _Higher_ tends to mean more problematic failures. 00 is an automatic success. In most cases, 99 is considered an automatic failure.
