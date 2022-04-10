@@ -20,7 +20,7 @@ Everything a player character might possibly attempt that **could** result in **
 
 Creatures, non-player characters (NPCs), and other such encounters must complete a YES, NO, MAYBE assessment as well—characters will need to avoid their onslaughts by taking the appropriate action or counter-action. 
 
-### Rolling a Maybe (?)
+### Rolling on a Maybe (?)
 When rolling to determine if a MAYBE action is going to succeed or fail, the group's Referee might use the following table to determine the target number a player will need to roll under or equal to on a d100 to succeed.
 
 | Difficulty Descriptor  | d100 Target Number | 
